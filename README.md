@@ -1,4 +1,4 @@
-#cpp repository
+# cpp repository
 ---
 
-this repository stores c++ code
+This repository stores c++ code
